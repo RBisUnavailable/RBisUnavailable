@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RBisUnavailable
+- 👋 Hi, I’m Rachit
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Back End Web Development
 - 💞️ I’m looking to collaborate on 
