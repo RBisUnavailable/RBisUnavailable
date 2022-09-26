@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rachit
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding specially java
 - 🌱 I’m currently learning Back End Web Development
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me rachitknp2001@gmail.c0m
 
 <!---
